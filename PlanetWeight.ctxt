@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PlanetWeight
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ inFile\ c\ d
+comment2.target=double[]\ cycle(java.io.File,\ java.util.Scanner,\ int,\ int)
+comment3.params=gravity\ weight
+comment3.target=double[]\ weightPlanets(double[],\ double)
+numComments=4
